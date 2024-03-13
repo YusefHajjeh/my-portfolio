@@ -1,0 +1,60 @@
+/* You can add custom CSS and extend Boostrap styles in this file. Remember, Bootstrap is just CSS at the end of the day! */
+.hero-image {
+    background-image: url('img2.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff; 
+    text-align: center;
+    margin: 0; 
+    padding: 0;
+}
+
+.hero-text{
+ font-family: "Kode Mono", monospace;
+  color: #89CFF0
+}
+
+.card-body{
+  background-color: black;
+  color: #89CFF0
+}
+
+
+.card{
+font-family: "Oswald", sans-serif;
+}
+
+.py-4{
+  background-color: #003459;
+  color:#89CFF0 ;
+
+}
+
+.py-3{
+  background-color: #007ea7;
+  color:#89CFF0 ;
+
+}
+
+.py-1{
+  background-color: #00a8e8;
+  color: #89CFF0;
+}
+
+.mb-4{
+   font-family: "Kode Mono", monospace;
+}
+
+.mb-3{
+  font-family: "Oswald", sans-serif;
+}
+
+.col-md-6{
+  font-family: "Oswald", sans-serif;
+}
